@@ -10,7 +10,7 @@ from utils.screenshot_handler import ScreenshotHandler
 
 
 class BasePage:
-    """Base class for all page objects"""
+    
     
     def __init__(self, driver: webdriver, screenshot_handler: ScreenshotHandler = None):
         """

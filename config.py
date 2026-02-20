@@ -1,6 +1,4 @@
-"""
-Configuration file for test automation
-"""
+
 BASE_URL = "https://insiderone.com/"
 SCREENSHOT_DIR = "screenshots"
 DEFAULT_TIMEOUT = 10
